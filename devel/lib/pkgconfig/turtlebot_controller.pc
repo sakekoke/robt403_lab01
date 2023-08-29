@@ -1,0 +1,8 @@
+prefix=/nu/catkin_ws/devel
+
+Name: turtlebot_controller
+Description: Description of turtlebot_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
